@@ -1,0 +1,4 @@
+INSERT INTO participants (name, age, attending)
+VALUES ('Asia', 35, TRUE);
+
+SELECT * FROM participants;
